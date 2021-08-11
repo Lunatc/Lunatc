@@ -7,7 +7,7 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 [LinkedIn](https://www.linkedin.com/in/cintia-braz/)
 
-⚡ Fun fact: I love learning random and new things.
+⚡ Fun fact: I love learning random and new things, so I have new hobbies all the time.
 <!--
 **Lunatc/Lunatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
