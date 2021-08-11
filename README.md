@@ -5,7 +5,7 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 📫 How to reach me:
 
-https://www.linkedin.com/in/cintia-braz/
+[LinkedIn](https://www.linkedin.com/in/cintia-braz/)
 
 ⚡ Fun fact: I like learning random and new things, even outside technology.
 
