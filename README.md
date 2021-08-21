@@ -11,6 +11,9 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=solarized-light)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatc)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
