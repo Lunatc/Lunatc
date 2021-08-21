@@ -1,3 +1,5 @@
+[![MasterHead](banner.png)](https://github.com/Lunatc)
+
 ### Hello there 👋
 
 My name is Cintia, I'm a computer science student. I'm currently learning front-end web development.
