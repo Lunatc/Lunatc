@@ -22,6 +22,9 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 </a>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lunatc&theme=gruvbox)](https://git.io/streak-stats)
+ 
+ ![](https://komarev.com/ghpvc/?username=lunatc)
+
 
 
 <!--
