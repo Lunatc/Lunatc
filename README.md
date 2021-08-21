@@ -8,7 +8,7 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 📫 How to reach me:
 
 <p align="left">
-<a href="https://twitter.com/Little_lunatc" target="blank">Twitter</a>
+<a href="https://twitter.com/Little_lunatc" target="blank">Twitter</a><br>
 <a href="https://www.linkedin.com/in/cintia-braz/" target="blank">LinkedIn</a>
 </p>
 
