@@ -9,9 +9,12 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 ⚡ Fun fact: I love learning random and new things, so I have new hobbies all the time.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 
 
 
