@@ -7,7 +7,10 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/cintia-braz/)
+<p align="left">
+<a href="https://twitter.com/Little_lunatc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cintia-braz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ⚡ Fun fact: I love learning random and new things, so I have new hobbies all the time.
 
