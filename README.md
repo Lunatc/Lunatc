@@ -21,6 +21,8 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatc&langs_count=3&theme=gruvbox" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lunatc)](https://git.io/streak-stats)
+
 
 
 <!--
