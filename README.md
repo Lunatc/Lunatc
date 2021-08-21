@@ -13,7 +13,7 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatc&langs_count=3&theme=dracula" />
 </a>
 
 
