@@ -9,7 +9,7 @@ I have a interest in HCI, UX and Design, and I also look forward to learn more a
 
 ⚡ Fun fact: I love learning random and new things, so I have new hobbies all the time.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=solarized-light&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatc&show_icons=true&theme=solarized-light)
 
 
 
