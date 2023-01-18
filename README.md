@@ -5,7 +5,7 @@
 My name is Cintia, I'm a computer science student. I'm currently learning front-end web development.
 I have a interest in HCI, UX and Design, and I also look forward to learn more about back-end development.
 
-My front-end Portfolio, made with Gatsby: https://lunatc.github.io/Portfolio/ (still in development)
+My front-end Portfolio, made with Gatsby: [https://lunatc.github.io/Portfolio/ ](https://lunatc.github.io/Portfolio/)
 
 📫 How to reach me:
 
