@@ -10,8 +10,8 @@ My front-end Portfolio, made with React: [Portfolio](https://lunatc.github.io/po
 📫 How to reach me:
 
 <p align="left">
-<a href="https://twitter.com/Little_lunatc" target="blank">Twitter</a><br>
 <a href="https://www.linkedin.com/in/cintia-braz/" target="blank">LinkedIn</a>
+
 </p>
 
 ⚡ Fun fact: I love learning random and new things, so I have new hobbies all the time.
